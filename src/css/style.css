@@ -14,7 +14,8 @@ body.modo-escuro{
 header{
     display: flex;
     justify-content: space-between;
-    padding: 25px;
+    align-items: center;
+    padding: 10px;
 }
 
 header .logo, header .imagem-botao{
